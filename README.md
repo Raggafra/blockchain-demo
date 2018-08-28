@@ -13,10 +13,10 @@ command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/seanseany/blockchain
+$ git clone https://github.com/Raggafra/blockchain-demo
 
 # Go into the repository
-$ cd blockchain
+$ cd blockchain-demo
 
 # Install dependencies
 $ npm install
